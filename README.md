@@ -1,6 +1,6 @@
 ### bonjour
 
-### 🐍 im a python3 developer 
+### 🐍 python3 developer 
 
 ### if you want to have a readme.md on your profile
 
