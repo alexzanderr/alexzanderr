@@ -10,13 +10,13 @@
 
 ### **alexzanderr/alexzanderr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 
-### 🔭 I’m currently working on ... life
+### 🔭 I’m currently working on ... life (manjaro xfce customization, linux knowledge, python clean code)
 
-### 🌱 I’m currently learning ... about life
+### 🌱 I’m currently learning ... about life (HTML, CSS, JS, networking, services, databases, how to make everything better)
 
-### 👯 I’m looking to collaborate on ... life
+### 👯 I’m looking to collaborate on ... life (open-source)
 
-### 🤔 I’m looking for help with ... life
+### 🤔 I’m looking for help with ... life (my projects)
 
 ### 💬 Ask me about ... life
 
