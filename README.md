@@ -1,6 +1,6 @@
 
 
-![logo](https://github.com/alexzanderr/alexzanderr/blob/main/static/img/logo/alexzanderr-github-logo.png?raw=True)
+![logo](https://github.com/alexzanderr/alexzanderr/blob/main/alexzanderr-github-logo.png?raw=True)
 
 ### About alexzanderr
 Hello im a systems programmer and I love the Rust programming language.
